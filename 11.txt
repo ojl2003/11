@@ -1,6 +1,7 @@
 体育频道,#genre#
 劲爆体育,http://183.66.105.68/1.v.smtcdns.net/dongfang5g-pc-v51-live.bestvcdn.com.cn/001/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://112.19.171.156:9999/rtp/239.93.42.98:5140
+劲爆体育,http://www.cdtriot.cn:9999/rtp/239.93.42.98:5140
 劲爆体育,http://192.168.124.4:8000/sczb.php?id=jbty
 劲爆体育,http://192.168.124.4:8000/mg.php?id=jbty
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbty
@@ -320,8 +321,23 @@ EYE TV旅游,mitv://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
 
 
 
-重庆PHP,#genre#
-cctv2,http://183.150.225.170:18900/ysp/?id=cctv2
+电视剧频道,#genre#
+电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
+电视剧频道5,http://zby.xjqxz.top/gzgdj/live.m3u8
+电视剧频道6,http://zby.xjqxz.top/gzdsj1/live.m3u8
+电视剧频道7,http://zby.xjqxz.top/gzdsj2/live.m3u8
+电视剧频道8,http://zby.xjqxz.top/gzdsj3/live.m3u8
+电视剧频道9,http://zby.xjqxz.top/gzdsj4/live.m3u8
+电视剧频道10,http://zby.xjqxz.top/gzdsj5/live.m3u8
+电视剧频道11,http://zby.xjqxz.top/kzzypd2/live.m3u8
+电视剧频道12,http://zby.xjqxz.top/kzzypd/live.m3u8
+电视剧频道13,http://zby.xjqxz.top/dzzypd/live.m3u8
+电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
+电视剧频道15,http://zby.xjqxz.top/dzzypd3/live.m3u8
+cctv2,http://192.168.124.1/ysp/ysp.php?id=cctv2
 广东珠江,http://192.168.124.1/gdzb.php?id=gdzj
 广东体育,http://192.168.124.1/yfy.php?id=gdty
 
@@ -330,9 +346,9 @@ cctv2,http://183.150.225.170:18900/ysp/?id=cctv2
 
 
 港澳台,#genre#
-翡翠台,http://14.145.141.253:8081/hls/30/index.m3u8
-澳视澳门,http://14.145.141.253:8081/hls/32/index.m3u8
-明珠台,http://14.145.141.253:8081/hls/31/index.m3u8
+翡翠台,http://14.145.191.114:8081/hls/30/index.m3u8
+澳视澳门,http://14.145.191.114:8081/hls/32/index.m3u8
+明珠台,http://14.145.191.114:8081/hls/31/index.m3u8
 华丽翡翠台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
